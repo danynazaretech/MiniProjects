@@ -8,14 +8,10 @@ Esse repositório possui o principal objetivo de armazenar:
   5. mini ptojetos executados em cursos de computação.
 
 
-| Syntax | Description |
+| Projeto | Ferramentas |
 | ----------- | ----------- |
-| Header | Title |
+| [1] Card HTML CSS JS | HTML, css, js |
 | Paragraph | Text |
 
 
-| Projeto | Ferramentas |
-| [1] Card HTML CSS JS | HTML, css, js |
-|||
-|||
-|||
+

@@ -5,4 +5,4 @@ Projeto realizado no NLW HEAT na trilha Origin na qual foi implementadoo carach�
 
 
 
-![Crachá do while 2021](https://raw.githubusercontent.com/danynazareth/NLW-HEAT-Origin/main/img/dany_dowhile.PNG?raw=true "Dany Crachá")
+![Crachá do while 2021](https://github.com/danynazareth/preProjetos/blob/main/%5B1%5D%20Card%20HTML%20CSS%20JS/img/dany_dowhile.PNG)

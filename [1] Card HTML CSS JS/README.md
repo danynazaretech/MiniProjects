@@ -1,7 +1,8 @@
 # [1] Card HTML CSS JS
 
 
-Projeto realizado no NLW HEAT na trilha Origin na qual foi implementadoo carachá do **Do While** usando conceitos básicos de HTML, CSS, JS.
+
+Project carried out at NLW HEAT on the Origin track in which the Do While caracha was implemented using basic concepts of HTML, CSS, JS.
 
 
 

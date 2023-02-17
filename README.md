@@ -10,8 +10,8 @@ Esse repositório possui o principal objetivo de armazenar:
 
 | Projeto | Ferramentas |
 | ----------- | ----------- |
-| [1] Card HTML CSS JS | HTML, css, js |
-| Paragraph | Text |
+| [1] Card HTML CSS JS | .HTML, .css, .js |
+| [2] Inteligencia Artificial Busca Python-main | .py |
 
 
 

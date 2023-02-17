@@ -1,14 +1,14 @@
-# Inteligencia Artificial
+# Artificial Intell igence
 
-## Algoritmos de busca em Python
+## Search Algorithms in Python
 
-#### Busca sem Informação
+#### Search without information
     
-    1. Busca em Profundidade
-    2. Busca em Largura
+    1. Depth-First Search (DFS)
+    2. Breadth-First Search (BFS)
 
-#### Busca com Informação
+#### Search with information
     
-    1. Busca Gulosa
+    1. Search degree
     2. A*
     

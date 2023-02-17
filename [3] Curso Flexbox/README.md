@@ -1,6 +1,6 @@
-# Projeto do Curso de Flexbox da Udemy
+# Udemy Flexbox Course Project
 
-## HTML5 e CSS3 Técnicas Avançadas (Com Flexbox e 5 Projetos)
+## HTML5 and CSS3 Advanced Techniques (With Flexbox and 5 Projects)
 
 
-Os projetos são apenas front - end, que usa recurso de flexbox para ajustar os elementos na tela.
+Projects are just front-end, which uses flexbox feature to adjust elements on screen.

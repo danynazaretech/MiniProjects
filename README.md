@@ -13,5 +13,6 @@ Esse repositório possui o principal objetivo de armazenar:
 | [1] Card HTML CSS JS | .HTML, .css, .js |
 | [2] Inteligencia Artificial Busca Python-main | .py |
 | [3] Curso Flexbox | .html .css |
+| [4] Visualizacao de Dados Bioinformatica | .py .fasta .html |
 
 

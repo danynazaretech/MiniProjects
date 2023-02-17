@@ -1,18 +1,17 @@
-# Pré Projetos
+# Pre Projects
 
-Esse repositório possui o principal objetivo de armazenar:
-  1. algoritmos
-  2. simulações
-  3. templates web
-  4. praticas de curso 
-  5. mini ptojetos executados em cursos de computação.
+This repository has the main objective of storing: 
+  1. algorithms 
+  2. simulations 
+  3. Web templates 
+  4. Course practices 
+  5. Mini projects executed in computing courses.
 
 
-| Projeto | Ferramentas |
+| Project | Tools |
 | ----------- | ----------- |
 | [1] Card HTML CSS JS | .HTML, .css, .js |
-| [2] Inteligencia Artificial Busca Python-main | .py |
-| [3] Curso Flexbox | .html .css |
-| [4] Visualizacao de Dados Bioinformatica | .py .fasta .html |
-
+| [2] Artificial Intelligence Search Python-main | .py |
+| [3] Flexbox course | .html .css |
+| [4] Bioinformatics Data Visualization | .py .fasta .html |
 

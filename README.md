@@ -1,4 +1,4 @@
-# Micro Projects
+# Mini Projects
 
 This repository has the main objective of storing: 
   1. algorithms 
